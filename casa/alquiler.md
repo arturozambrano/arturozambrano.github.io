@@ -12,18 +12,72 @@
 
 ### Comodidades de la casa:
  * 4 dormitorios.
- * Patio interno
  * 2 baños
  * Dos estudios pequeños 
  * Cocina comedor
- * Living con estufa tomen a leña
- 
+ * Living comedor con estufa a leña Tromen
+ * Lavadero
+ * Patio interno
+
+
+## Exteriores
+![Alt](./ext-01.jpg "ext")
+![Alt](./ext-02.jpg "ext")
+![Alt](./ext-03.jpg "ext")
+![Alt](./ext-04.jpg "ext")
+![Alt](./ext-05.jpg "ext")
+![Alt](./ext-06.jpg "ext")
+![Alt](./ext-07.jpg "ext")
+![Alt](./ext-08.jpg "ext")
+![Alt](./ext-09.jpg "ext")
+![Alt](./ext-10.jpg "ext")
+![Alt](./ext-11.jpg "ext")
+![Alt](./ext-12.jpg "ext")
+
+
+
+
+## Interiores 
  	   
-Baño visitas ![Alt](./banho1.jpg "Baño visitas")
+### Baño visitas 
+![Alt](./banho1.jpg "Baño visitas")
 
-Baño  privado: ![Alt](./banho2.jpg "Baño  privado")
-	
-Cocina Comedor: ![Alt](./cocinaComedor.jpg "Title")
+### Baño  principal: 
+![Alt](./banho2.jpg "Baño  privado")
+![Alt](./banho21.jpg "Baño  privado")	
+![Alt](./banho22.jpg "Baño  privado")	
 
-Patio Interno: ![Alt](./patiointerno.jpg "Patio interno")
+### Cocina: 
+![Alt](./cocina.jpg "Title")
+![Alt](./cocina2.jpg "Title")
 
+
+### Cocina (Comedor): 
+![Alt](./cocinaComedor.jpg "Title")
+
+
+### Estudio 1
+![Alt](./estudio1.jpg "Title")
+
+### Estudio 2
+![Alt](./estudionenes.jpg "Title")
+
+### Patio Interno: 
+![Alt](./patiointerno.jpg "Patio interno")
+
+### Lavadero
+![Alt](./lavadero.jpg "Lavadero")
+
+### Living
+![Alt](./living1.jpg "Title")
+![Alt](./living2.jpg "Title")
+![Alt](./living3.jpg "Title")
+
+### Pasillo
+![Alt](./pasillo.jpg "Title") 
+
+### Piezas
+![Alt](./pieza1.jpg "Title") 
+![Alt](./pieza2.jpg "Title") 
+![Alt](./pieza3.jpg "Title") 
+![Alt](./pieza31.jpg "Title") 
