@@ -25,5 +25,5 @@ Baño  privado: ![Alt](./banho2.jpg "Baño  privado")
 	
 Cocina Comedor: ![Alt](./cocinaComedor.jpg "Title")
 
-Patio Interno: ![Alt](./patioInterno.jpg "Patio interno")
+Patio Interno: ![Alt](./patiointerno.jpg "Patio interno")
 
