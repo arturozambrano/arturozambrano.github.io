@@ -7,17 +7,18 @@
 - Pileta 8 x 4 material, con bomba
 - Quincho + parrilla + horno de barro + asador
 - Garage para dos autos + galpón.
-- Casa secundaria 1 dorm. 1 baño cocina comedor para casero, faltan detalles, sirve como gran depósito  
+- Casa secundaria 1 dorm. 1 baño cocina comedor para casero, faltan detalles, sirve como gran depósito  (en gris en el crokis)
 
 
 ### Comodidades de la casa:
- * 4 dormitorios.
+ * 4 dormitorios
  * 2 baños
  * Dos estudios pequeños 
  * Cocina comedor
  * Living comedor con estufa a leña Tromen
  * Lavadero
  * Patio interno
+ *
 
 
 ## Exteriores
@@ -80,4 +81,7 @@
 ![Alt](./pieza1.jpg "Title") 
 ![Alt](./pieza2.jpg "Title") 
 ![Alt](./pieza3.jpg "Title") 
-![Alt](./pieza31.jpg "Title") 
+![Alt](./pieza31.jpg "Title")
+
+## Crokis
+![Alt](./CrokisCasa.jpg "Title") 
