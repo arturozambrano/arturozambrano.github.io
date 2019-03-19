@@ -1,4 +1,7 @@
+.DS_Store
+.AppleDouble
+.LSOverride
 _site/
 .sass-cache/
-.DS_Store
 .jekyll*
+
