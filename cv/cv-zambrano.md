@@ -17,10 +17,10 @@ PhD, Assistant Professor.
 
 ## Personal Statement
 
-My motivation to by a teacher in software engineering is to help advance the understanding of my students
+My motivation to be a teacher in software engineering is to advance the understanding of my students
 of such a significant topic.
 For doing that I am based not only  in my academic background but also in my field experience 
-in different areas.
+in different software development projects.
 
 Currently I am professor assistant in two universities with a more than 15 years of experience in both grad
 and undergrad courses. My Phd was done in the area of software engineering, in particular in modularity applying
