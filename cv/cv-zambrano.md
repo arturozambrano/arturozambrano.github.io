@@ -363,14 +363,16 @@ OOPSLA  2000. Demo Session  Presenter. USA, Minneapolis.
 
 ## Invited Talks 
 
+
+
 `2011` Interactive Digital TV Technologies,  Tucumán. Argentina
 
 `2010` State of the Art in the implementation of Digital TV in Argentina. Buenos
 Aires, Argentina
 
+`2009`
 An architecture for Digital TV firmware. Santiago de Chile,Chile
 
-2009
 
 
 ## Other non academic courses imparted
@@ -426,16 +428,13 @@ German: basic/reading
 
 - Programming Languages: Smalltalk, Java, C++, Node JS, Ruby.
 
-- Frameworks: Spec, GT, Roassal, SmaCC, Spring, Hibernate, boost, rails.
+- Frameworks: Spec, GT, Roassal, SmaCC, Spring, Hibernate, Boost, Rails.
 
-- Tools: Eclipse, Pharo, Rational team Concert.
+- Tools: Eclipse, Pharo, VisualWorks, Rational team Concert.
 
-- Domains: Slot machines, embedded software, digital TV, streaming, 
+- Domains: Slot machines, embedded software, digital TV, streaming, static source code analysis, parsers
 
 - Methodologies: Scrum, Kanban
-
-
-
 
 
 ## References /Referees
@@ -454,7 +453,7 @@ Universidad Nacional de Quilmes.
 `2016 – 2017 ` Product Engineer and Project Leader. STREAM SA:  Development of a
 flexible cloud based platform for content contribution, based on the Object
 Based Broadcasting concept. Tasks:  Definition of the scope of product features,
-interviews with customers, project management, architectur Technologies: NodeJS
+interviews with customers, project management, architecture Technologies: NodeJS
 (LoopBack), AngularJS, Kong, Relational DB Team size: 5 Methodology: Scrum
     
 `2015 –  2016` Product Engineer and Project Leader | STREAM SA:  Development of
@@ -524,17 +523,15 @@ Evaluación de papers para CLEI 2008
 Evaluación de papers para Software Composition 2009
 
 
-## Courses
+## Other courses attended
 
-Nombre del curso:ISDBT Institución Organizadora: JICA Lugar: Tokio Japon Fecha:
-10 al 20 Feb de 2010 Cantidad de horas del curso: 40
+`Feb 2010`
+ISDBT. Organizer: Japan International Cooperation Agency (JICA). Tokio, Japan.
+ Hours: 40
 
+`Jul 2006`
+Certified Scrum Master.  Scrum Alliance. Buenos Aires, Argentina. Hours: 24
 
-Nombre del curso:Certified Scrum Master Institución Organizadora: Scrum Alliance
-Lugar: Buenos Aires Fecha: Julio 2006 Cantidad de horas del curso: 16
-
-
-Nombre del curso: PL2008 Escuela de Verano en  Lenguajes de Programación
-Institución Organizadora: Sociedad Chilena de Computación Lugar: Punta Arenas,
-Chile Fecha: 11 y 12 de Noviembre de 2008 Calificación: - Cantidad de horas del
-curso: 16
+`Nov 2008`
+ PL2008 Summer School on advanced Programming Languages. Sociedad Chilena de Computación.
+  Punta Arenas, Chile. Hours: 16
