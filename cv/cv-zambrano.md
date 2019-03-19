@@ -1,5 +1,6 @@
 ---
-layout: cv title: Arturo Zambrano's CV
+layout: cv 
+title: Arturo Zambrano's CV
 ---
 # Arturo Zambrano
 PhD, Assistant Professor.
