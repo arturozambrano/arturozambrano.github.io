@@ -15,12 +15,18 @@ PhD, Assistant Professor.
 <a>+54 9 221 542 4797</a>
 </div>
 
-## Personal Statement
+
+---
+# Personal Statement 
+## (not really a part of the CV)
+---
 
 My motivation to be a teacher in software engineering is to advance the
 understanding of my students of such a significant topic. For doing that I am
 based not only  in my academic background but also in my field experience in
-different software development projects.
+different software development projects. My teaching experiences have always
+reinforced how much I enjoy helping people comprehend and apply the concepts
+surrounding better ways to build software.
 
 Currently I am professor assistant in two universities with  more than 15 years
 of experience in both grad and undergrad courses. My Phd was done in the area of
@@ -47,7 +53,7 @@ students to grow as critical and independent thinkers, I want them to have the
 tools which will allow them to discern between different possible solution to a
 given problem.
 
-### Teaching Philosophy
+### Teaching 
  
 ToDo: more work on this
 
@@ -64,8 +70,6 @@ This message reaches my students and they appreciate the effort I invest in my
 teaching activities, as I have been consistently ranked above the media. My
 courses are considered by students as really influential and inspiring, as
 reflected by the polls taken every year by Universidad Nacional de Quilmes.
-
-
 
 #### Graduate and Undergrad Teaching at University of La Plata
 
@@ -112,7 +116,7 @@ Computer Science department of U. of Quilmes (UNQ for short) is relatively new,
 account for 10 years. I have been part of the department team almost since its
 creation. It is a dynamic environment with two careers in computer science.
 
-During my first at UNQ I taught OOP. Then I accepted the challenge of creating a
+During my first year at UNQ I taught OOP. Then I accepted the challenge of creating a
 course from scratch on on Digital TV and Streaming technologies. Two years later
 I have had the opportunity to create a new course for student on the final year.
 The idea was to prepare them in those technologies and tools currently used in
@@ -135,18 +139,6 @@ of the most inspiring and they have  requested to make it mandatory due to the
 relevance they perceive of it. Besides this, it has been consistently ranked in
 top three courses by the department.
 
-## Education
-`2013` Distinguished PhD (Computer Science). Universidad Nacional de La Plata,
-Argentina. NZQA assessment Level 10.
-
-`2006` Master (Software Engineering). Universidad Nacional de La Plata,
-Argentina. NZQA assessment Level 9.
-
-`2002` Bachelor (Computer Science). Universidad Nacional de La Plata, Argentina.
-NZQA assessment Level 7.
-
-Note: NZQA Assessment issued on Dec 5 2018
-
 
 ## Research Interests
 My primary research interest is in the area of modularity. Complex systems
@@ -159,7 +151,7 @@ for an industrial case study.
  This work documents how 
 interactions rise between different components leading to undesired behavior. From this
 analysis I have derived new forms to deal, express and control such
-interactions during requirement engineering, modelling and programming stages at software development.
+interactions during requirement engineering, modeling and programming stages at software development.
 
 Another related topic is expressiveness of programming languages. I worked
 on better ways to improve it through domain specific languages. 
@@ -170,6 +162,27 @@ in language expressiveness. The result is a live environment where a DSL
 allows for the modification 'on the fly' of a pipeline for the real time analysis 
 of a data stream (taking Twitter again as a first example). This work is the main topic 
 of my current master student. We are currently in the process of publishing the results.
+
+
+---   
+# The CV actually starts here....
+
+
+
+
+
+## Education
+`2013` Distinguished PhD (Computer Science). Universidad Nacional de La Plata,
+Argentina. NZQA assessment Level 10.
+
+`2006` Master (Software Engineering). Universidad Nacional de La Plata,
+Argentina. NZQA assessment Level 9.
+
+`2002` Bachelor (Computer Science). Universidad Nacional de La Plata, Argentina.
+NZQA assessment Level 7.
+
+Note: NZQA Assessment issued on Dec 5 2018
+
 
 
 
@@ -219,11 +232,18 @@ Methodologies (Object Oriented Programming)
 programación dinámica para la exploración visual de datos en Twitter.  Student:
 Agustín  Meriles. Universidad Nacional de La Plata. Work  in progress.
 
+`2016`
+Master in Software Engineering Thesis. Title: Soporte para ingeniería
+de requerimientos orientada a aspectos en documentos de gran tamaño (Tool support for
+aspect oriented requirement engineering for large scale specifications). Student: Julian Rousselot.
+Universidad Nacional de La Plata.
+
+
 `2014` Undergraduate Thesis. Title: Desarrollo de una aplicación para
 manipulación de Editing Commands en televisión digital. Student: Gaston
 Charkiewicz
 
-TODO:  AGregar a Julian
+
 
 `2012 WIP` Undergraduate Thesis. Title: Interacciones entre aspectos: estudio
 sobre un caso industrial. Student: Alejandro Alvarez. Universidad Nacional de La
@@ -257,7 +277,7 @@ Zambrano, J. Rousselot, J. Fabry, and S.Gordillo. Electronic Journal of SADIO,
 10(1):38–52, 2011.
 
 `2010` Supporting Aspect Oriented Requirements Engineering for Large Documents.
-A. Zambrano, J. Rousselot, J. Fabry, and S. Gordillo.. In Proceedings of the
+A. Zambrano, J. Rousselot, J. Fabry, and S. Gordillo. In Proceedings of the
 Argentinean Symposium on SoftwareEngineering (ASSE’10), pages 568–577, Buenos
 Aires, Argentina, August 2010. Sociedad Argentina de Investigación Operativa. 
        
@@ -312,7 +332,7 @@ and Retrieval. Udine, Italia. September 8, 2003. Expositor: Arturo Zambrano
 
 `2000` Aspect-Based Adaptation for Ubiquitous Software Arturo Zambrano, Silvia
 Gordillo, Ignacio Jaureguiberry Mobile and Ubiquitous Information Access, Mobile
-HCI 2003 International.            Workshop, Revised and Invited Papers.Lecture
+HCI 2003 International. Workshop, Revised and Invited Papers.Lecture
 Notes in Computer Science 2954, Springer Verlag. Octubre de 2000. ISBN:
 3-540-21003-2. ISSN: 0302-9743 Páginas: 215-226.
 
@@ -332,16 +352,16 @@ ISBN:1-58113-307-3,Páginas: 185-186
 `1999` An Architecture to handle Continuous Fields in GIS. Luis Polasek, Arturo
 Zambrano, Silvia Gordillo. Australasian Workshop on Software Architectures
 (ASAW'99), TOOLS Pacific'99 Melbourne, Australia. 1999. Expositor: Luis Norberto
-Polasek
+Polasek.
 
 Una Arquitectura  para manipular Campos Continuos en Aplicaciones GIS. Luis
 PLuis Polasek, Arturo Zambrano, Silvia Gordillo. CACIC'99. Tandil, Argentina
-1.    Expositor: Luis Norberto Polasek
+1.    Expositor: Luis Norberto Polasek.
 
 
 A Non-Intrusive Visualization Framework. Arturo Zambrano, Marcos Godoy, Luis
 Matricardi. OOPSLA'99 Poster Session, Denver. USA. 1999 OOPSLA, ACM Proceedings.
-Expositor: Arturo Zambrano
+Expositor: Arturo Zambrano.
 
 
 
@@ -427,15 +447,15 @@ German: basic/reading
 
 ## Technical Skills
 
-- Programming Languages: Smalltalk, Java, C++, Node JS, Ruby.
+Programming Languages: Smalltalk, Java, C++, Node JS, Ruby.
 
-- Frameworks: Spec, GT, Roassal, SmaCC, Spring, Hibernate, Boost, Rails.
+Frameworks: Spec, GT, Roassal, SmaCC, Spring, Hibernate, Boost, Rails.
 
-- Tools: Eclipse, Pharo, VisualWorks, Rational team Concert.
+Tools: Eclipse, Pharo, VisualWorks, Rational team Concert.
 
-- Domains: Slot machines, embedded software, digital TV, streaming, static source code analysis, parsers
+Domains: Slot machines, embedded software, digital TV, streaming, static source code analysis, parsers
 
-- Methodologies: Scrum, Kanban
+Methodologies: Scrum, Kanban
 
 
 ## References /Referees
@@ -464,7 +484,8 @@ interviews with customers, project management, architecture Technologies: NodeJS
  PHP Team size: 7 Methodology: Scrum for development, Kanban for operations and
  maintenance.
 
-`2015 -  2017` CEO  |  Stream SA.
+`2015 -  2017` 
+CEO  |  Stream SA.
 
 `2015` Co-founder | STREAM SA: Stream develops products for Digital TV and sell
  SaaS for automated content generation and video streaming.
@@ -511,18 +532,21 @@ progressive backend for slot machines. Technologies:  Java, Embedded Linux
 
 ## Reviewing Activities
 
-Shepherding en Viking PLOP 2003.
 
-Evaluación de papers para el sesión principal de paper en Ecoop2007
-
-Evaluacion de papers para CLE2007
-
-Evaluación de papers para ASSE 2007
-
-Evaluación de papers para CLEI 2008
+ToDo: translate, expand conference name
 
 Evaluación de papers para Software Composition 2009
 
+Evaluación de papers para CLEI 2008
+
+Evaluación de papers para ASSE 2007
+
+
+Evaluacion de papers para CLE2007
+
+Evaluación de papers para el sesión principal de paper en Ecoop2007
+
+Shepherding en Viking PLOP 2003.
 
 ## Other courses attended
 
