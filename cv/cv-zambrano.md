@@ -44,7 +44,7 @@ in the industry, therefore, having hands on experience there is paramount. On
 the other hand, having an academic/research approach to problems helped me to
 solve complex problems in the field. Feedback from the industry to the academia
 materialize as research topics derived from real problems, or the possibility of
-validating proposed solution in concrete industrial scenarios, which is really
+validating proposed solutions in concrete industrial scenarios, which is really
 welcome by the research community.
 
 It is extremely important for me that  students not only understand the subjects
@@ -53,21 +53,13 @@ students to grow as critical and independent thinkers, I want them to have the
 tools which will allow them to discern between different possible solution to a
 given problem.
 
-### Teaching 
- 
-ToDo: more work on this
-
-Learning is  a process performed by the student where the teacher takes an
-active role engaging and providing guidance. Having many years as lecturer in
-object oriented programming at graduated and undergrad levels, I have learnt and
-practiced a wide variety of pedagogical tools. Besides the details explained
-below, I am passionate about transmitting the importance of the subjects I teach
+I am passionate about transmitting the importance of the subjects I teach
 for the practical future daily work life of my students. I accomplish this by
 being specially careful regarding the examples and the scenarios for the
 assignment, lab works and exams.
 
 This message reaches my students and they appreciate the effort I invest in my
-teaching activities, as I have been consistently ranked above the media. My
+teaching activities, as I have  consistently got high scores. My
 courses are considered by students as really influential and inspiring, as
 reflected by the polls taken every year by Universidad Nacional de Quilmes.
 
@@ -143,22 +135,23 @@ top three courses by the department.
 ## Research Interests
 My primary research interest is in the area of modularity. Complex systems
 composed by a myriad of concerns ask for better mechanisms to express those
-concerns in an as isolated manner as possible. 
+concerns in an as isolated manner as possible. However, the different approaches
+for advanced separation of concerns have their own down sides.
 
 In my PhD, I have studied in depth the implications of using aspect oriented
 software development through several steps in the software development lifecycle
 for an industrial case study. 
  This work documents how 
-interactions rise between different components leading to undesired behavior. From this
+interactions arise between different components leading to undesired behavior. From this
 analysis I have derived new forms to deal, express and control such
 interactions during requirement engineering, modeling and programming stages at software development.
 
 Another related topic is expressiveness of programming languages. I worked
 on better ways to improve it through domain specific languages. 
 
-As part of an industrial project I developed real-time visualization engine 
-for data coming from Twitter. I have combined this with previously expressed interest
-in language expressiveness. The result is a live environment where a DSL
+As part of an industrial project I developed  a real-time visualization engine 
+for data coming from Twitter. I have combined this with my previously expressed interest
+in language expressiveness. The result is a live environment where a *domain specific aspect language*
 allows for the modification 'on the fly' of a pipeline for the real time analysis 
 of a data stream (taking Twitter again as a first example). This work is the main topic 
 of my current master student. We are currently in the process of publishing the results.
@@ -182,8 +175,6 @@ Argentina. NZQA assessment Level 9.
 NZQA assessment Level 7.
 
 Note: NZQA Assessment issued on Dec 5 2018
-
-
 
 
 ## Research Experience
@@ -255,9 +246,9 @@ Plata
 
 
 `2015`  
-Expressing aspectual interactions in design: evaluating three AOM approaches in
-the slot machine domain Johan Fabry, Arturo Zambrano, Silvia Gordillo Software &
-Systems Modeling, , Springer-Verlag
+Johan Fabry, Arturo Zambrano, Silvia Gordillo Software &
+Systems Modeling, Expressing aspectual interactions in design: evaluating three AOM approaches in
+the slot machine domain, Springer-Verlag
     
 `2013` Arturo Zambrano, Johan Fabry, and Silvia Gordillo. Aspect-Oriented
 Requirements Engineering, chapter Experience Report: AORE in Slot Machines.
