@@ -28,7 +28,7 @@ different software development projects. My teaching experiences have always
 reinforced how much I enjoy helping people comprehend and apply the concepts
 surrounding better ways to build software.
 
-Currently I am professor assistant in two universities with  more than 15 years
+Currently I am professor assistant at two universities with  more than 15 years
 of experience in both grad and undergrad courses. My Phd was done in the area of
 software engineering, in particular in modularity applying aspect oriented
 programming concepts to the software development life cycle. Besides my
@@ -236,69 +236,76 @@ Charkiewicz
 
 
 
-`2012 WIP` Undergraduate Thesis. Title: Interacciones entre aspectos: estudio
+`2012` Undergraduate Thesis. Title: Interacciones entre aspectos: estudio
 sobre un caso industrial. Student: Alejandro Alvarez. Universidad Nacional de La
 Plata
 
 
-
 ## Publications
 
+###Book chapters
 
-`2015`  
-Johan Fabry, Arturo Zambrano, Silvia Gordillo Software &
-Systems Modeling, Expressing aspectual interactions in design: evaluating three AOM approaches in
-the slot machine domain, Springer-Verlag
-    
-`2013` Arturo Zambrano, Johan Fabry, and Silvia Gordillo. Aspect-Oriented
-Requirements Engineering, chapter Experience Report: AORE in Slot Machines.
-Springer Verlag.  ISBN: 978-3-642-38639-8 August .
+`2013`
+Arturo Zambrano, Johan Fabry, Silvia Gordillo.
+Experience Report: AORE in Slot Machines.
+Aspect-Oriented Requirements Engineering pp 317 - 332. Springer Verlag. 
 
-`2012` Arturo Zambrano, Johan Fabry, and Silvia Gordillo. Expressing aspectual
-interactions in requirements engineering: Experiences, problems and solutions.
-Science of Computer Programming, 78(1):65 – 92, 2012. Special Section: Formal
-Aspects of Component Software.
 
-`2011` Expressing Aspectual Interactions in Design: Experiences in the Slot
-Machine Domain. Johan Fabry, Arturo Zambrano, Silvia E. Gordillo.  MODELS 2011.
-New Zealand. October 2011.  Best Paper Award for the Applications Track
 
+### ISI Journals
+
+`2016`
+Johan Fabry, Zambrano Arturo, Gordillo Silvia. Expressing aspectual interactions in design: evaluating three AOM approaches in the slot
+machine domain. SOFTWARE AND SYSTEMS MODELING, Vol. 15 (3), pp. 881 - 905
+
+
+`2012` 
+Zambrano Arturo, Johan Fabry, Gordillo Silvia. Expressing aspectual interactions in requirements engineering: Experiences, problems and
+solutions.SCIENCE OF COMPUTER PROGRAMMING, Vol. 78 (1), pp. 65 - 92. 35
+
+`2010` Zambrano Arturo, Gordillo Silvia, Johan Fabry. A fine grained aspect coordination mechanism. INTERNATIONAL JOURNAL OF SOFTWARE ENGINEERING AND KNOWLEDGE
+ENGINEERING, Vol. 20 (7), pp. 1025 - 1042. 23 
+
+### NON ISI Journals
+`2011`
 Supporting Aspect Oriented Requirements Engineering for Large Documents A.
 Zambrano, J. Rousselot, J. Fabry, and S.Gordillo. Electronic Journal of SADIO,
 10(1):38–52, 2011.
 
+`2010`
+A Fine Grained Aspect Coordination Mechanism Arturo Zambrano, Silvia E.
+Gordillo, Johan Fabry. International Journal of Software Engineering and
+Knowledge Engineering 20(7): 1025-1042 (2010).
+
+### ACM / IEEE
+
+`2011`
+Johan Fabry, Arturo Zambrano, Silvia Gordillo.
+Expressing Aspectual Interactions in Design: Experiences in the Slot Machine Domain.
+ACM/IEEE 14th International Conference on Model Driven Engineering Languages and Systems
+MODELS 2011. New Zealand. October 2011. Best Paper Award for the Applications Track.
+
+`2010`
+Arturo Zambrano, Johan Fabry, Guillermo Jacobson, Silvia Gordillo.
+Expressing aspectual interactions in requirements engineering: experiences in the slot machine
+domain. ACM Symposium on Applied Computing (SAC) 2161-2168.
+
+  
+`2009` Paul Adamczyk, Arturo Zambrano, Federico
+Balaguer. Refactoring Big Balls of Mud. 
+ICSE 2009 Software Engineering in Practice (Industry Track). 31st
+International Conference on Software Engineering, Vancouver, Canada, May 16-24.
+
+### Other Conferences
+
 `2010` Supporting Aspect Oriented Requirements Engineering for Large Documents.
 A. Zambrano, J. Rousselot, J. Fabry, and S. Gordillo. In Proceedings of the
 Argentinean Symposium on SoftwareEngineering (ASSE’10), pages 568–577, Buenos
-Aires, Argentina, August 2010. Sociedad Argentina de Investigación Operativa. 
-       
-Expressing aspectual interactions in requirements engineering: experiences in
-the slot machine domain Arturo Zambrano, Johan Fabry, Guillermo Jacobson, Silvia
-E. Gordillo:. SAC 2010: 2161-2168
+Aires, Argentina, August 2010. Sociedad Argentina de Investigación Operativa.
 
-A Fine Grained Aspect Coordination Mechanism Arturo Zambrano, Silvia E.
-Gordillo, Johan Fabry:. International Journal of Software Engineering and
-Knowledge Engineering20(7): 1025-1042 (2010)
-  
-`2009` Refactoring Big Balls of Mud Paul Adamczyk, Arturo Zambrano, Federico
-Balaguer. ICSE 2009 Software Engineering in Practice (Industry Track). 31st
-International Conference on Software Engineering, Vancouver, Canada, May 16-24,
-1.    
-
-`2008` Isolating the Concern "Time" in Geographic Information Systems. L. Hahn,
+`2008` Isolating the Time Concern in Geographic Information Systems. L. Hahn,
 A. Zambrano, S. Gordillo.  XXXIV CLEI, pages 930-939, ISBN 978-950-9770-02-7,
 Santa Fe, Argentina 2008. 
-
-`2006` Solving aspectual semantic conflicts in resource aware systems  
-Arturo Zambrano, Tomas Vera, and Silvia Gordillo. In Walter Cazzola, Shigeru
-Chiba, Yvonne Coady, and Gunter Saake, editors, Third ECOOP Workshop on
-Reflection, AOP and Metadata for Software Evolution. Fakultät für Informatik,
-Universität Magdeburg, 79-88 Nantes, France, 2006. Con Referato.
-
-`2005` Object-Oriented Model for Fire Spread Prediction Guillermina Pertino,
-Sabrina Tocho, Arturo Zambrano, Silvia Gordillo 15th European - Japanese
-Conference on Information Modelling and Knowledge Bases. Tallinn, Estonia. May
-16-20, 2005. Con Referato
 
 `2005` Reusing Context-Awareness through Aspects Arturo Zambrano, Silvia
 Gordillo, Ignacio Jaureguiberry UMICS 2005. Ubiquitous Mobile Information and
@@ -311,10 +318,24 @@ Zambrano, Silvia Gordillo, Luis Norberto Polasek. Editores: Raquel Navarro
 Prieto y Jesús Lorés Vidal. HCI Related Papers of Interacción 2004. Springer
 Verlag. 2005 ISBN 1-4020-4204-3. 
 
+`2005` Object-Oriented Model for Fire Spread Prediction Guillermina Pertino,
+Sabrina Tocho, Arturo Zambrano, Silvia Gordillo 15th European - Japanese
+Conference on Information Modelling and Knowledge Bases. Tallinn, Estonia. May
+16-20, 2005.
 
-`2004` Desacoplando la Personalización en las Aplicaciones Móviles Arturo
-Zambrano, Luis Polasek, Silvia Gordillo. Interacción 2004. V Congreso
-Interacción Persona Ordenador. Lleida, España. 2004. 
+   
+
+
+
+### Workshop Papers
+
+`2006` Solving aspectual semantic conflicts in resource aware systems  
+Arturo Zambrano, Tomas Vera, and Silvia Gordillo. In Walter Cazzola, Shigeru
+Chiba, Yvonne Coady, and Gunter Saake, editors, Third ECOOP Workshop on
+Reflection, AOP and Metadata for Software Evolution. Fakultät für Informatik,
+Universität Magdeburg, 79-88 Nantes, France, 2006. Con Referato.
+
+
 
 
 `2003` Aspect-Based Adaptation for Ubiquitous Software. Arturo Zambrano, Ignacio
@@ -328,35 +349,31 @@ Notes in Computer Science 2954, Springer Verlag. Octubre de 2000. ISBN:
 3-540-21003-2. ISSN: 0302-9743 Páginas: 215-226.
 
 
-
-Taking Advantage of Design Patterns in GIS Domain. Luis Polasek, Arturo
-Zambrano. OOPSLA'2000 Poster Session. Minneapolis, USA. 2000. OOPSLA, ACM
-Proceedings. Expositor: Arturo Zambrano. ISBN:1-58113-307-3 Pg: 67-68 
-
-Tilcara: An OO Perspective to Handle Continuous Fields in GIS. Arturo Zambrano,
-Luis Polasek. OOPSLA'2000 Demonstration. Minneapolis, USA. 2000. OOPSLA
-Companion, ACM Proceedings. Expositor: Arturo Zambrano
-ISBN:1-58113-307-3,Páginas: 185-186
-
-
-    
 `1999` An Architecture to handle Continuous Fields in GIS. Luis Polasek, Arturo
 Zambrano, Silvia Gordillo. Australasian Workshop on Software Architectures
 (ASAW'99), TOOLS Pacific'99 Melbourne, Australia. 1999. Expositor: Luis Norberto
 Polasek.
 
-Una Arquitectura  para manipular Campos Continuos en Aplicaciones GIS. Luis
-PLuis Polasek, Arturo Zambrano, Silvia Gordillo. CACIC'99. Tandil, Argentina
-1.    Expositor: Luis Norberto Polasek.
 
+### ACM Demos and Posters
 
+`2000`
+Arturo Zambrano.
+Taking Advantage of Design Patterns in GIS Domain. Luis Polasek, Arturo
+Zambrano. OOPSLA'2000 Poster Session. Minneapolis, USA. ISBN:1-58113-307-3 Pg: 67-68 
+
+`2000`
+Arturo Zambrano, Luis Polasek. 
+Tilcara: An OO Perspective to Handle Continuous Fields in GIS. OOPSLA'2000 Demonstration. Minneapolis, USA. 
+ISBN:1-58113-307-3,Pg: 185-186
+
+`1999`
+Arturo Zambrano. 
 A Non-Intrusive Visualization Framework. Arturo Zambrano, Marcos Godoy, Luis
-Matricardi. OOPSLA'99 Poster Session, Denver. USA. 1999 OOPSLA, ACM Proceedings.
-Expositor: Arturo Zambrano.
+Matricardi. OOPSLA'99 Poster Session, Denver. USA.
 
 
-
-## Conferences:
+## Conferences attended:
 
 `2010` Symposium on Applied Computing . Sierre, Suiza. Paper presenter
 
