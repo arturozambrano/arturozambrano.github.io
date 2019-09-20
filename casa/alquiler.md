@@ -1,7 +1,7 @@
 ## Casa en Alquiler
 
 - Dirección: 72 y 173 (asfalto hasta la esquina)
-- 3.5 hectareas
+- 2 hectareas
 - Monte de frutales
 - Aprox. 200 metros cuadrados cubiertos.
 - Pileta 8 x 4 material, con bomba
