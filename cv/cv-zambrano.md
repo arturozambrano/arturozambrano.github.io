@@ -1,5 +1,5 @@
 ---
-layout: cv 
+
 title: Arturo Zambrano's CV
 ---
 # Arturo Zambrano
@@ -15,150 +15,11 @@ PhD, Assistant Professor.
 <a>+54 9 221 542 4797</a>
 </div>
 
-
----
-# Personal Statement 
-## (not really a part of the CV)
----
-
-My motivation to be a teacher in software engineering is to advance the
-understanding of my students of such a significant topic. For doing that I am
-based not only  in my academic background but also in my field experience in
-different software development projects. My teaching experiences have always
-reinforced how much I enjoy helping people comprehend and apply the concepts
-surrounding better ways to build software.
-
-Currently I am professor assistant at two universities with  more than 15 years
-of experience in both grad and undergrad courses. My Phd was done in the area of
-software engineering, in particular in modularity applying aspect oriented
-programming concepts to the software development life cycle. Besides my
-experience in the academia I have an equally strong participation in projects in
-the industry for a variety of domains. This background includes: embedded
-software, slot machines and casino accounting, digital tv and more recently
-source code analysis tools for semi-automatic documentation and migration of
-legacy systems.
-
-I consider my participation in both academia and industry a significant plus for
-my students. Most of what is taught in the academia will ultimately be applied
-in the industry, therefore, having hands on experience there is paramount. On
-the other hand, having an academic/research approach to problems helped me to
-solve complex problems in the field. Feedback from the industry to the academia
-materialize as research topics derived from real problems, or the possibility of
-validating proposed solutions in concrete industrial scenarios, which is really
-welcome by the research community.
-
-It is extremely important for me that  students not only understand the subjects
-I teach them but be able to use them in their daily life. My goal is for
-students to grow as critical and independent thinkers, I want them to have the
-tools which will allow them to discern between different possible solution to a
-given problem.
-
-I am passionate about transmitting the importance of the subjects I teach
-for the practical future daily work life of my students. I accomplish this by
-being specially careful regarding the examples and the scenarios for the
-assignment, lab works and exams.
-
-This message reaches my students and they appreciate the effort I invest in my
-teaching activities, as I have  consistently got high scores. My
-courses are considered by students as really influential and inspiring, as
-reflected by the polls taken every year by Universidad Nacional de Quilmes.
-
-#### Graduate and Undergrad Teaching at University of La Plata
-
-University of La Plata is the third university in Argentina  according to
-international rankings. Every year 800 students enroll for the different
-computer science careers offered by the Computer Science Faculty.
-
-My courses cover from basic object oriented programming concept to more advanced
-topics such as reflection and aspect oriented programming. These courses are a
-requirement for the second and third year of the Licenciatura en Informática  (5
-years degree in computer science) and Computer Science Engineering.
-
-As lecturer I am part of a team composed by 3 professors, 3 lecturers and 12
-teaching assistants. Annually the basic OOP course accounts for 400 students,
-and around 100 for the more advanced one. My contribution has not only to do
-with contents of  practical assignments, but also with the coordination of such
-a big team. Part of this coordination consist on regular performance evaluation
-and improvements, along with definition of a unified criteria in order keep the
-team's message consistent.
-
-Our courses are taught organized as follows:
-- Theoretic lectures in charge of full professors.
-- Practical lectures in charge of lecturers.
-- Hands on work lectures in the lab where teaching assistants help students to
-  complete their practical assignments.
-- Homework submitted through an online platform
-- At the end of the course there is one examination to determine if the student
-  has passed or not the course. This examination plus her performance in the
-  assignments determine their final mark.
-
-I am responsible for assignment contents, practical lectures and exams at the
-end of the semester. I am also in charge of some theoretic lectures for specific
-topics assigned by the full-professors.
-
-Besides these two undergrad courses, I have taught OOP as part of the Master in
-Software Engineering program. In this course I have been responsible also for
-theoretic content.
+<div id="webaddress">
+<a>Calle 72 Nro. 3850. La Plata, Argentina</a>
+</div>
 
 
-
-####  Undergrad Teaching at University of Quilmes
-
-Computer Science department of U. of Quilmes (UNQ for short) is relatively new,
-account for 10 years. I have been part of the department team almost since its
-creation. It is a dynamic environment with two careers in computer science.
-
-During my first year at UNQ I taught OOP. Then I accepted the challenge of creating a
-course from scratch on on Digital TV and Streaming technologies. Two years later
-I have had the opportunity to create a new course for student on the final year.
-The idea was to prepare them in those technologies and tools currently used in
-the industry.
-
-I was in charge of designing the syllabus of the course and practical
-assignments. The course entitled: "Cloud based services" cover the following
-topics:
-- Asynchronous programming model (callbacks, futures, promises, async/await)
-- REST APIs 
-- Containers as an introduction to micro-services technology.
-
-
-Along this course the students learn to work with Node Js and they connect with
-public REST APIs of well known services such as Spotify, MusixMatch, Google,
-etc.
-
-Every year 50 students take this course. It is considered by the students as one
-of the most inspiring and they have  requested to make it mandatory due to the
-relevance they perceive of it. Besides this, it has been consistently ranked in
-top three courses by the department.
-
-
-## Research Interests
-My primary research interest is in the area of modularity. Complex systems
-composed by a myriad of concerns ask for better mechanisms to express those
-concerns in an as isolated manner as possible. However, the different approaches
-for advanced separation of concerns have their own down sides.
-
-In my PhD, I have studied in depth the implications of using aspect oriented
-software development through several steps in the software development lifecycle
-for an industrial case study. 
- This work documents how 
-interactions arise between different components leading to undesired behavior. From this
-analysis I have derived new forms to deal, express and control such
-interactions during requirement engineering, modeling and programming stages at software development.
-
-Another related topic is expressiveness of programming languages. I worked
-on better ways to improve it through domain specific languages. 
-
-As part of an industrial project I developed  a real-time visualization engine 
-for data coming from Twitter. I have combined this with my previously expressed interest
-in language expressiveness. The result is a live environment where a *domain specific aspect language*
-allows for the modification 'on the fly' of a pipeline for the real time analysis 
-of a data stream (taking Twitter again as a first example). This work is the main topic 
-of my current master student. We are currently in the process of publishing the results.
-
-
----   
-# The CV actually starts here....
 
 
 
@@ -177,6 +38,15 @@ NZQA assessment Level 7.
 Note: NZQA Assessment issued on Dec 5 2018
 
 
+##  Key achievements
+
+* Co-author of a research paper that gained an ACM Distinguished Paper Award.
+* Organized the Master in Software Engineering at one of Argentina’s National Universities where I am now an Assistant Professor.
+* Leader of a software development team that built set-top box software delivered to more than one million households in Argentina.
+* Co-founder of a successful startup based on two innovative streaming products for digital TV that I created and led development for.
+* Developed five commercial products for casino/slot machines, digital TV receivers and broadcasting, TV/video content production, and products for the banking sector.
+
+
 ## Research Experience
 
 `2008 - 2013` PhD researcher under supervision of Prof. Dr. Johan Fabry:
@@ -189,19 +59,19 @@ AOSD based approach.
 
 
 ## Teaching Experience
-`Aug 2016 - Present` Assistant Professor | Universidad Nacional de La Plata:
+`Aug 2016 - Present` Assistant Professor. Universidad Nacional de La Plata:
 ​Object oriented programming course
 
-`Jan 2017 -  Present` Assistant Professor | Universidad Nacional de Quilmes:
+`Jan 2017 -  Present` Assistant Professor. Universidad Nacional de Quilmes:
 Cloud based services
 
-`Jan 2015 - Dec 2016` Assistant Professor | Universidad Nacional de Quilmes:
+`Jan 2015 - Dec 2016` Assistant Professor. Universidad Nacional de Quilmes:
 ​Digital TV and Streaming Technologies
 
-`Jan 2013 -  Dec 2014` Assistant Professor | Universidad Nacional de Quilmes:
+`Jan 2013 -  Dec 2014` Assistant Professor. Universidad Nacional de Quilmes:
 ​Digital TV 
 
-`Mar 2011 - Dec 2012` Assistant Professor | Universidad Nacional de Quilmes:
+`Mar 2011 - Dec 2012` Assistant Professor. Universidad Nacional de Quilmes:
 Object oriented programming course
 
 `2012 - 2013` Coordinator,  Universidad Nacional de la Plata, Master in Software
@@ -210,10 +80,10 @@ Engineering.
 `2009 - 2011` Professor: Object Oriented Programming and Design Patterns,
 Universidad Nacional de la Plata, Master in Software Engineering.
 
-`May 2007 - Jul 2016` Lecturer | Universidad Nacional de la Plata:​ Object
+`May 2007 - Jul 2016` Lecturer. Universidad Nacional de la Plata:​ Object
 oriented programming course
 
-`May 2003 - Jul 2014` Lecturer | Universidad Nacional de la Plata:​ Programming
+`May 2003 - Jul 2014` Lecturer. Universidad Nacional de la Plata:​ Programming
 Methodologies (Object Oriented Programming)
 
 
@@ -406,6 +276,9 @@ An architecture for Digital TV firmware. Santiago de Chile,Chile
 
 ## Other non academic courses imparted
 
+`2017` SCRUM Workshop. Universidad Nacional de Jujuy,
+Argentina.
+
 `2012` SCRUM Workshop. Universidad de la Patagonia Austral Rio Gallegos,
 Argentina.
 
@@ -433,10 +306,10 @@ Plata, Argentina (2003)
 ## Grants
 
 
-`2015 - 2017` Fonsoft, Agency for Innovation awarded a grant of $20k (USD) for
+`2015 - 2017` Fonsoft, Agency for Innovation awarded a grant of $50k (USD) for
 the development of Glow.
 
-`2011 - 2013` Fonsoft, Agency for Innovation awarded a grant of $10k (USD) for
+`2011 - 2013` Fonsoft, Agency for Innovation awarded a grant of $30k (USD) for
 the development of CloudPlayout.
 
 `2008 - 2010`  Doctoral grant, Conicet,  Ministry of Innovation and Technology.
@@ -468,16 +341,29 @@ Methodologies: Scrum, Kanban
 
 ## References /Referees
 
-Dr. Johan Fabry. jfabry@gmail.com. PhD advisor.
+Dr. Johan Fabry. PhD advisor.  jfabry@gmail.com. 
+Spechtenstraat 16,
+3078 Everberg
+Belgium
++32488663158
 
-Dr. Gustavo Rossi. gustavo@lifia.info.unlp.edu.ar. Head of LIFIA, Universidad
-Nacional de La Plata.
+Dr. Gustavo Rossi.  Head of LIFIA, Universidad
+Nacional de La Plata. gustavo@lifia.info.unlp.edu.ar. Calle 50 y 120 S/N, primer piso.
++54 221 422 8252
 
 Dr. Pablo Martinez Lopez. fidel@unq.edu.ar. Head of Computer Science Department.
-Universidad Nacional de Quilmes.
+Universidad Nacional de Quilmes.  Roque Sáenz Peña 352, B1876 Bernal, Buenos Aires.
++54 9 221 555 2131
 
 
 ## Professional experience in the industry
+
+`2018-present` 
+Senior Engineer.  Synchrony Systems (www.sync-sys.com). Tool
+development for legacy systems migration.
+
+ 
+`2017- 2018` Product Engineer and Technical Leader. Universidad Nacional de La Plata:​ ​Development of static analysis tools for COBOL programs ​for financial institutions. The tool helps to understand structure of legacy applications with big code bases.
 
 `2016 – 2017 ` Product Engineer and Project Leader. STREAM SA:  Development of a
 flexible cloud based platform for content contribution, based on the Object
@@ -485,7 +371,7 @@ Based Broadcasting concept. Tasks:  Definition of the scope of product features,
 interviews with customers, project management, architecture Technologies: NodeJS
 (LoopBack), AngularJS, Kong, Relational DB Team size: 5 Methodology: Scrum
     
-`2015 –  2016` Product Engineer and Project Leader | STREAM SA:  Development of
+`2015 –  2016` Product Engineer and Project Leader. STREAM SA:  Development of
  an automated 24x7 linear streaming platform http://www.cloudplayout.net/.
  Tasks: Definition of the scope of product features, interviews with customers,
  project management, architecture. Technologies: Python, Linux, Relational DB,
@@ -493,18 +379,18 @@ interviews with customers, project management, architecture Technologies: NodeJS
  maintenance.
 
 `2015 -  2017` 
-CEO  |  Stream SA.
+CEO .  Stream SA.
 
-`2015` Co-founder | STREAM SA: Stream develops products for Digital TV and sell
+`2015` Co-founder. STREAM SA: Stream develops products for Digital TV and sell
  SaaS for automated content generation and video streaming.
  http://www.stream.com.ar
 
-`2012 - 2015` Project Leader | LIFIA R&D Lab: Development of new products for
+`2012 - 2015` Project Leader. LIFIA R&D Lab: Development of new products for
  transmission in Digital TV, IPTV and Streaming. Tasks: Besides coordinating the
  activities for development and testing I defined most of the product features.
  Technologies: C++, Python, Linux Team size: 17
 
-`2009 - 2011` Project Leader | LIFIA R&D Lab Universidad Nacional de La Plata:
+`2009 - 2011` Project Leader. LIFIA R&D Lab Universidad Nacional de La Plata:
 Port, extension and bug fixing of the Ginga Middleware to adapt it to production
 standards. Deployed on 1000000+  set top boxes provided by the Argentinian
 government. Development of a complete Set Top Box firmware for Digital TV
@@ -516,7 +402,7 @@ the final Set Top Boxes with the Argentinian companies which assembled the units
 locally. Technologies: C ++, Lua, Embedded  Linux Team size: 20 Methodology:
 Scrum 
 
-`2007 - 2009` Senior Software Engineer | LIFIA - ID INTERACTIVE: R&D for slot
+`2007 - 2009` Senior Software Engineer. LIFIA - ID INTERACTIVE: R&D for slot
 machine software including complete refactoring of the communication protocol
 components. Technologies: C++ Team size: 2  
 Impact: the refactoring performed saved the company around 150000 USD  per year
@@ -524,13 +410,13 @@ in terms of certifications costs. We also published an indexed research paper:
 https://ieeexplore.ieee.org/document/5070963
 
 
-`2005 - 2007` Tech Lead | LIFIA - ID INTERACTIVE: Development of the accounting
+`2005 - 2007` Tech Lead. LIFIA - ID INTERACTIVE: Development of the accounting
 and progressive backend for slot machines. Tasks: Definition of the
 architecture. Team leadersh Technologies:  Java, Linux, Embedded Linux, Postgres
 Team size: 6 
 
 
-`2003 - 2004` Lead Developer | LIFIA - ID INTERACTIVE: Development of the
+`2003 - 2004` Lead Developer. LIFIA - ID INTERACTIVE: Development of the
 progressive backend for slot machines. Technologies:  Java, Embedded Linux
 (Linux from Scratch) Team size: 4 
 
@@ -540,21 +426,21 @@ progressive backend for slot machines. Technologies:  Java, Embedded Linux
 
 ## Reviewing Activities
 
+`2013` Papers  review  Argentine Symposium on Software Engineering. 
 
-ToDo: translate, expand conference name
+`2009` Papers  review  Software Composition. 
 
-Evaluación de papers para Software Composition 2009
+`2008` Papers  review  Latin American Computing Conference.
 
-Evaluación de papers para CLEI 2008
+`2007`Papers  review  Argentine Symposium on Software Engineering.
 
-Evaluación de papers para ASSE 2007
+`2007`Papers  review  Latin American Computing Conference.
+
+`2007`Papers  review   European Conference on Object-Oriented Programming.
+
+`2003` Shepherding  Viking PLOP 2003.
 
 
-Evaluacion de papers para CLE2007
-
-Evaluación de papers para el sesión principal de paper en Ecoop2007
-
-Shepherding en Viking PLOP 2003.
 
 ## Other courses attended
 
